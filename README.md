@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**elif1305/elif1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 1.About Me
 
 - 🔭 I’m currently working on ...
@@ -13,6 +10,11 @@
 - 📫 How to reach me: ekosardata@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
+
+<!--
+**elif1305/elif1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 -->
