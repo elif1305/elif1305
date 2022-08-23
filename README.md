@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JS,CSS,Bootstrap,Scss,React.**
 
-- 📫 How to reach me **ekosardata@gmail.com**
+- 📫 How to reach me **eliff.kocak@yahoo.com**
 
 - ⚡ Fun fact **Let's Dance!**
 
