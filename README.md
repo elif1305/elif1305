@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **my own projects.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 👯 I’m looking to collaborate on **React projects.**
 
-- 💬 Ask me about **JS,CSS,Bootstrap,Scss,React.**
+- 💬 Ask me about **JS,CSS,Bootstrap,SCSS/SASS,React.**
 
 - 📫 How to reach me **eliff.kocak@yahoo.com**
 
