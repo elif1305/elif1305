@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **TypeScript.**
 
+- 💻 My volunteer project **Deepened-Mind.**
+
 - 👯 I’m looking to collaborate on **React projects.**
 
 - 💬 Ask me about **JS,CSS,Bootstrap,SCSS/SASS,React.**
